@@ -1,1 +1,1 @@
-# watch-that-box
+This page allows you to change the color, opacity, and size of the box as listed. 
